@@ -45,3 +45,6 @@ class Solution:
             l1.next = new_Node
         l1 = tmp_lists[longer]
         return l1
+
+# Runtime: 96 ms, faster than 61.80% of Python3 online submissions for Add Two Numbers.
+# Memory Usage: 14 MB, less than 10.33% of Python3 online submissions for Add Two Numbers.
